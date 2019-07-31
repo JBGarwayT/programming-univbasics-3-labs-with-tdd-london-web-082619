@@ -1,2 +1,2 @@
-first_number = "4" == 4
+first_number = 
 second_number = 6
