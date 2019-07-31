@@ -1,1 +1,2 @@
-first_number = "hello world!"
+first_number = 6
+second_number = 6
